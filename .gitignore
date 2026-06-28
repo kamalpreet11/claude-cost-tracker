@@ -1,0 +1,5 @@
+# generated locally from your own usage logs - never committed
+web/data.js
+__pycache__/
+*.pyc
+.DS_Store
